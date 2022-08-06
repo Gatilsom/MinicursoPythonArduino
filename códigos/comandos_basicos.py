@@ -1,13 +1,4 @@
 
-"""
-import numpy as np
-import matplotlib.pyplot as plt
-from pyfirmata2 import *
-from time import sleep, time
-from serial import SerialException, SerialTimeoutException, PortNotOpenError
-
-"""
-
 # -> do pacote pyfirmta2 importe tudo (*)
 from pyfirmata2 import *
 
